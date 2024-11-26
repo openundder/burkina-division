@@ -1,0 +1,379 @@
+{
+    "Burkina Faso": {
+        "Regions": [
+            {
+                "name": "Boucle du Mouhoun",
+                "code_INSD": "02",
+                "population_count": {
+                  "y_2012": 1677018,
+                  "y_2019": 1898133
+                },
+                "area_km2": 34333.0,
+                "capital": "Dédougou",
+                "regional_councillors_count": 89,
+                "provinces": {
+                    "count": 6
+                },
+                "departments": {
+                    "count": 47
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "urban_count": 6,
+                    "rural_count": 41,
+                    "villages": {
+                        "count": 1042
+                    }
+                }
+            },
+            {
+                "name": "Cascades",
+                "code_INSD": "12",
+                "population_count": {
+                  "y_2012": 661936,
+                  "y_2019": 812062
+                },
+                "area_km2": 18917.0,
+                "capital": "Banfora",
+                "regional_councillors_count": 33,
+                "provinces": {
+                    "count": 2
+                },
+                "departments": {
+                    "count": 17
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "urban_count": 3,
+                    "rural_count": 14,
+                    "villages": {
+                        "count": 270
+                    }
+                }
+            },
+            {
+                "name": "Centre",
+                "code_INSD": "11",
+                "population_count": {
+                  "y_2012": 2231807,
+                  "y_2019": 3032668
+                },
+                "area_km2": 2869.0,
+                "capital": "Ouagadougou",
+                "regional_councillors_count": 14,
+                "provinces": {
+                    "count": 1
+                },
+                "departments": {
+                    "count": 7
+                },
+                "communes": {
+                    "urban_count": null,
+                    "urban_special_status_count": 1,
+                    "arrondissements": 12,
+                    "sectors": 55,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "rural_count": 6,
+                    "villages": {
+                        "count": 172
+                    }
+                }
+            },
+            {
+                "name": "Centre-Est",
+                "code_INSD": "10",
+                "population_count": {
+                  "y_2012": 1343079,
+                  "y_2019": 1578075
+                },
+                "area_km2": 14709.6,
+                "capital": "Tenkodogo",
+                "regional_councillors_count": 59,
+                "provinces": {
+                    "count": 3
+                },
+                "departments": {
+                    "count": 30
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 6,
+                    "rural_count": 24,
+                    "villages": {
+                        "count": 676
+                    }
+                }
+            },
+            {
+                "name": "Centre-Nord",
+                "code_INSD": "06",
+                "population_count": {
+                  "y_2012": 1416895,
+                  "y_2019": 1872126
+                },
+                "area_km2": 19508.0,
+                "capital": "Kaya",
+                "regional_councillors_count": 55,
+                "provinces": {
+                    "count": 3
+                },
+                "departments": {
+                    "count": 28
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 3,
+                    "rural_count": 25,
+                    "villages": {
+                        "count": 757
+                    }
+                }
+            },
+            {
+                "name": "Centre-Ouest",
+                "code_INSD": "07",
+                "population_count": {
+                  "y_2012": 1387860,
+                  "y_2019": 1659339
+                },
+                "area_km2": 21752.0,
+                "capital": "Koudougou",
+                "regional_councillors_count": 75,
+                "provinces": {
+                    "count": 4
+                },
+                "departments": {
+                    "count": 39
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 4,
+                    "rural_count": 35,
+                    "villages": {
+                        "count": null
+                    }
+                }
+            },
+            {
+                "name": "Centre-Sud",
+                "code_INSD": "13",
+                "population_count": {
+                  "y_2012": 742378,
+                  "y_2019": 788341
+                },
+                "area_km2": 11457.0,
+                "capital": "Manga",
+                "regional_councillors_count": 38,
+                "provinces": {
+                    "count": 3
+                },
+                "departments": {
+                    "count": 19
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 3,
+                    "rural_count": 16,
+                    "villages": {
+                        "count": 528
+                    }
+                }
+            },
+            {
+                "name": "Est",
+                "code_INSD": "04",
+                "population_count": {
+                  "y_2012": 1464366,
+                  "y_2019": 1941505
+                },
+                "area_km2": 46694.0,
+                "capital": "Fada N’Gourma",
+                "regional_councillors_count": 54,
+                "provinces": {
+                    "count": 5
+                },
+                "departments": {
+                    "count": 27
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 5,
+                    "rural_count": 22,
+                    "villages": {
+                        "count": 806
+                    }
+                }
+            },
+            {
+                "name": "Hauts-Bassins",
+                "code_INSD": "01",
+                "population_count": {
+                  "y_2012": 1776803,
+                  "y_2019": 2238375
+                },
+                "area_km2": 25574.0,
+                "capital": "Bobo-Dioulasso",
+                "regional_councillors_count": 62,
+                "provinces": {
+                    "count": 3
+                },
+                "departments": {
+                    "count": 33
+                },
+                "communes": {
+                    "urban_count": null,
+                    "urban_special_status_count": 1,
+                    "arrondissements": 7,
+                    "sectors": 32,
+                    "villages_special": 36,
+                    "other_urban_count": 2,
+                    "rural_count": 30,
+                    "villages": {
+                        "count": 472
+                    }
+                }
+            },
+            {
+                "name": "Nord",
+                "code_INSD": "09",
+                "population_count": {
+                  "y_2012": 1382111,
+                  "y_2019": 1720908
+                },
+                "area_km2": 17885.0,
+                "capital": "Ouahigouya",
+                "regional_councillors_count": 59,
+                "provinces": {
+                    "count": 4
+                },
+                "departments": {
+                    "count": 31
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 4,
+                    "rural_count": 27,
+                    "villages": {
+                        "count": 816
+                    }
+                }
+            },
+            {
+                "name": "Plateau-Central",
+                "code_INSD": "08",
+                "population_count": {
+                  "y_2012": 807444,
+                  "y_2019": 977510
+                },
+                "area_km2": 8605.0,
+                "capital": "Ziniaré",
+                "regional_councillors_count": 40,
+                "provinces": {
+                    "count": 3
+                },
+                "departments": {
+                    "count": 23
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 3,
+                    "rural_count": 20,
+                    "villages": {
+                        "count": 530
+                    }
+                }
+            },
+            {
+                "name": "Sahel",
+                "code_INSD": "03",
+                "population_count": {
+                  "y_2012": 1158147,
+                  "y_2019": 1094907
+                },
+                "area_km2": 36166.0,
+                "capital": "Dori",
+                "regional_councillors_count": 51,
+                "provinces": {
+                    "count": 4
+                },
+                "departments": {
+                    "count": 26
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 4,
+                    "rural_count": 22,
+                    "villages": {
+                        "count": null
+                    }
+                }
+            },
+            {
+                "name": "Sud-Ouest",
+                "code_INSD": "05",
+                "population_count": {
+                  "y_2012": 729362,
+                  "y_2019": 874030
+                },
+                "area_km2": 16533.0,
+                "capital": "Gaoua",
+                "regional_councillors_count": 56,
+                "provinces": {
+                    "count": 4
+                },
+                "departments": {
+                    "count": 28
+                },
+                "communes": {
+                    "urban_special_status_count": null,
+                    "arrondissements": null,
+                    "sectors": null,
+                    "villages_special": null,
+                    "other_urban_count": null,
+                    "urban_count": 4,
+                    "rural_count": 24,
+                    "villages": {
+                        "count": null
+                    }
+                }
+            }
+        ]
+    }
+}
