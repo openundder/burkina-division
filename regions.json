@@ -1,379 +1,1257 @@
 {
-    "Burkina Faso": {
-        "Regions": [
+  "burkina_faso": {
+    "regions": [
+      {
+        "name": "Boucle du Mouhoun",
+        "code_INSD": "02",
+        "population_count": {
+          "y_1985": 913713,
+          "y_1996": 1174456,
+          "y_2002": 1353607,
+          "y_2004": 1411681,
+          "y_2005": 1444639,
+          "y_2006": 1478392,
+          "y_2012": 1677018,
+          "y_2019": 1898133
+        },
+        "area_km2": 34333.0,
+        "capital": "Dédougou",
+        "regional_councillors_count": 89,
+        "provinces": {
+          "count": 6,
+          "details": [
             {
-                "name": "Boucle du Mouhoun",
-                "code_INSD": "02",
-                "population_count": {
-                  "y_2012": 1677018,
-                  "y_2019": 1898133
-                },
-                "area_km2": 34333.0,
-                "capital": "Dédougou",
-                "regional_councillors_count": 89,
-                "provinces": {
-                    "count": 6
-                },
-                "departments": {
-                    "count": 47
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "urban_count": 6,
-                    "rural_count": 41,
-                    "villages": {
-                        "count": 1042
-                    }
-                }
+              "name": "Balé",
+              "chef_lieu": "Boromo",
+              "departments": [
+                "Bagassi",
+                "Bana",
+                "Boromo",
+                "Fara",
+                "Oury",
+                "Pâ",
+                "Pompoï",
+                "Poura",
+                "Siby",
+                "Yaho"
+              ],
+              "population_count": {
+                "y_1985": 129323,
+                "y_1996": 168170,
+                "y_2002": 213526
+              }
             },
             {
-                "name": "Cascades",
-                "code_INSD": "12",
-                "population_count": {
-                  "y_2012": 661936,
-                  "y_2019": 812062
-                },
-                "area_km2": 18917.0,
-                "capital": "Banfora",
-                "regional_councillors_count": 33,
-                "provinces": {
-                    "count": 2
-                },
-                "departments": {
-                    "count": 17
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "urban_count": 3,
-                    "rural_count": 14,
-                    "villages": {
-                        "count": 270
-                    }
-                }
+              "name": "Banwa",
+              "chef_lieu": "Solenzo",
+              "departments": [
+                "Balavé",
+                "Kouka",
+                "Sami",
+                "Sanaba",
+                "Solenzo",
+                "Tansila"
+              ],
+              "population_count": {
+                "y_1985": 158963,
+                "y_1996": 215297,
+                "y_2002": 283663
+              }
             },
             {
-                "name": "Centre",
-                "code_INSD": "11",
-                "population_count": {
-                  "y_2012": 2231807,
-                  "y_2019": 3032668
-                },
-                "area_km2": 2869.0,
-                "capital": "Ouagadougou",
-                "regional_councillors_count": 14,
-                "provinces": {
-                    "count": 1
-                },
-                "departments": {
-                    "count": 7
-                },
-                "communes": {
-                    "urban_count": null,
-                    "urban_special_status_count": 1,
-                    "arrondissements": 12,
-                    "sectors": 55,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "rural_count": 6,
-                    "villages": {
-                        "count": 172
-                    }
-                }
+              "name": "Kossi",
+              "chef_lieu": "Nouna",
+              "departments": [
+                "Barani",
+                "Bomborokuy",
+                "Bourasso",
+                "Djibasso",
+                "Dokuy",
+                "Doumbala",
+                "Kombori",
+                "Madouba",
+                "Nouna",
+                "Sono"
+              ],
+              "population_count": {
+                "y_1985": 182276,
+                "y_1996": 230693,
+                "y_2002": 285785
+              }
             },
             {
-                "name": "Centre-Est",
-                "code_INSD": "10",
-                "population_count": {
-                  "y_2012": 1343079,
-                  "y_2019": 1578075
-                },
-                "area_km2": 14709.6,
-                "capital": "Tenkodogo",
-                "regional_councillors_count": 59,
-                "provinces": {
-                    "count": 3
-                },
-                "departments": {
-                    "count": 30
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 6,
-                    "rural_count": 24,
-                    "villages": {
-                        "count": 676
-                    }
-                }
+              "name": "Mouhoun",
+              "chef_lieu": "Dédougou",
+              "departments": [
+                "Bondokuy",
+                "Dédougou",
+                "Douroula",
+                "Kona",
+                "Ouarkoye",
+                "Safané",
+                "Tchériba"
+              ],
+              "population_count": {
+                "y_1985": 175043,
+                "y_1996": 235391,
+                "y_2002": 308134
+              },
+              "capital_population": {
+                "y_1985": 21049,
+                "y_1996": 33815,
+                "y_2002": 41944,
+                "y_2004": 43089,
+                "y_2005": 44265
+              }
             },
             {
-                "name": "Centre-Nord",
-                "code_INSD": "06",
-                "population_count": {
-                  "y_2012": 1416895,
-                  "y_2019": 1872126
-                },
-                "area_km2": 19508.0,
-                "capital": "Kaya",
-                "regional_councillors_count": 55,
-                "provinces": {
-                    "count": 3
-                },
-                "departments": {
-                    "count": 28
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 3,
-                    "rural_count": 25,
-                    "villages": {
-                        "count": 757
-                    }
-                }
+              "name": "Nayala",
+              "chef_lieu": "Toma",
+              "departments": [
+                "Gassan",
+                "Gossina",
+                "Kougny",
+                "Toma",
+                "Yaba",
+                "Yé"
+              ],
+              "population_count": {
+                "y_1985": 116949,
+                "y_1996": 136393,
+                "y_2002": 156861
+              }
             },
             {
-                "name": "Centre-Ouest",
-                "code_INSD": "07",
-                "population_count": {
-                  "y_2012": 1387860,
-                  "y_2019": 1659339
-                },
-                "area_km2": 21752.0,
-                "capital": "Koudougou",
-                "regional_councillors_count": 75,
-                "provinces": {
-                    "count": 4
-                },
-                "departments": {
-                    "count": 39
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 4,
-                    "rural_count": 35,
-                    "villages": {
-                        "count": null
-                    }
-                }
-            },
-            {
-                "name": "Centre-Sud",
-                "code_INSD": "13",
-                "population_count": {
-                  "y_2012": 742378,
-                  "y_2019": 788341
-                },
-                "area_km2": 11457.0,
-                "capital": "Manga",
-                "regional_councillors_count": 38,
-                "provinces": {
-                    "count": 3
-                },
-                "departments": {
-                    "count": 19
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 3,
-                    "rural_count": 16,
-                    "villages": {
-                        "count": 528
-                    }
-                }
-            },
-            {
-                "name": "Est",
-                "code_INSD": "04",
-                "population_count": {
-                  "y_2012": 1464366,
-                  "y_2019": 1941505
-                },
-                "area_km2": 46694.0,
-                "capital": "Fada N’Gourma",
-                "regional_councillors_count": 54,
-                "provinces": {
-                    "count": 5
-                },
-                "departments": {
-                    "count": 27
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 5,
-                    "rural_count": 22,
-                    "villages": {
-                        "count": 806
-                    }
-                }
-            },
-            {
-                "name": "Hauts-Bassins",
-                "code_INSD": "01",
-                "population_count": {
-                  "y_2012": 1776803,
-                  "y_2019": 2238375
-                },
-                "area_km2": 25574.0,
-                "capital": "Bobo-Dioulasso",
-                "regional_councillors_count": 62,
-                "provinces": {
-                    "count": 3
-                },
-                "departments": {
-                    "count": 33
-                },
-                "communes": {
-                    "urban_count": null,
-                    "urban_special_status_count": 1,
-                    "arrondissements": 7,
-                    "sectors": 32,
-                    "villages_special": 36,
-                    "other_urban_count": 2,
-                    "rural_count": 30,
-                    "villages": {
-                        "count": 472
-                    }
-                }
-            },
-            {
-                "name": "Nord",
-                "code_INSD": "09",
-                "population_count": {
-                  "y_2012": 1382111,
-                  "y_2019": 1720908
-                },
-                "area_km2": 17885.0,
-                "capital": "Ouahigouya",
-                "regional_councillors_count": 59,
-                "provinces": {
-                    "count": 4
-                },
-                "departments": {
-                    "count": 31
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 4,
-                    "rural_count": 27,
-                    "villages": {
-                        "count": 816
-                    }
-                }
-            },
-            {
-                "name": "Plateau-Central",
-                "code_INSD": "08",
-                "population_count": {
-                  "y_2012": 807444,
-                  "y_2019": 977510
-                },
-                "area_km2": 8605.0,
-                "capital": "Ziniaré",
-                "regional_councillors_count": 40,
-                "provinces": {
-                    "count": 3
-                },
-                "departments": {
-                    "count": 23
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 3,
-                    "rural_count": 20,
-                    "villages": {
-                        "count": 530
-                    }
-                }
-            },
-            {
-                "name": "Sahel",
-                "code_INSD": "03",
-                "population_count": {
-                  "y_2012": 1158147,
-                  "y_2019": 1094907
-                },
-                "area_km2": 36166.0,
-                "capital": "Dori",
-                "regional_councillors_count": 51,
-                "provinces": {
-                    "count": 4
-                },
-                "departments": {
-                    "count": 26
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 4,
-                    "rural_count": 22,
-                    "villages": {
-                        "count": null
-                    }
-                }
-            },
-            {
-                "name": "Sud-Ouest",
-                "code_INSD": "05",
-                "population_count": {
-                  "y_2012": 729362,
-                  "y_2019": 874030
-                },
-                "area_km2": 16533.0,
-                "capital": "Gaoua",
-                "regional_councillors_count": 56,
-                "provinces": {
-                    "count": 4
-                },
-                "departments": {
-                    "count": 28
-                },
-                "communes": {
-                    "urban_special_status_count": null,
-                    "arrondissements": null,
-                    "sectors": null,
-                    "villages_special": null,
-                    "other_urban_count": null,
-                    "urban_count": 4,
-                    "rural_count": 24,
-                    "villages": {
-                        "count": null
-                    }
-                }
+              "name": "Sourou",
+              "chef_lieu": "Tougan",
+              "departments": [
+                "Di",
+                "Gomboro",
+                "Kassoum",
+                "Kiembara",
+                "Lanfièra",
+                "Lankoué",
+                "Toéni",
+                "Tougan"
+              ],
+              "population_count": {
+                "y_1985": 151159,
+                "y_1996": 188512,
+                "y_2002": 230423
+              }
             }
-        ]
-    }
+          ]
+        },
+        "departments": {
+          "count": 47,
+          "list": [
+            "Bagassi",
+            "Bana",
+            "Boromo",
+            "Fara",
+            "Oury",
+            "Pâ",
+            "Pompoï",
+            "Poura",
+            "Siby",
+            "Yaho",
+            "Balavé",
+            "Kouka",
+            "Sami",
+            "Sanaba",
+            "Solenzo",
+            "Tansila",
+            "Barani",
+            "Bomborokuy",
+            "Bourasso",
+            "Djibasso",
+            "Dokuy",
+            "Doumbala",
+            "Kombori",
+            "Madouba",
+            "Nouna",
+            "Sono",
+            "Bondokuy",
+            "Dédougou",
+            "Douroula",
+            "Kona",
+            "Ouarkoye",
+            "Safané",
+            "Tchériba",
+            "Gassan",
+            "Gossina",
+            "Kougny",
+            "Toma",
+            "Yaba",
+            "Yé",
+            "Di",
+            "Gomboro",
+            "Kassoum",
+            "Kiembara",
+            "Lanfièra",
+            "Lankoué",
+            "Toéni",
+            "Tougan"
+          ]
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "urban_count": 6,
+          "rural_count": 41,
+          "villages": {
+            "count": 1042
+          }
+        }
+      },
+      {
+        "name": "Cascades",
+        "code_INSD": "12",
+        "population_count": {
+          "y_2002": 386192,
+          "y_2006": 386192,
+          "y_2012": 661936,
+          "y_2019": 812062
+        },
+        "area_km2": 18917.0,
+        "capital": "Banfora",
+        "regional_councillors_count": 33,
+        "provinces": {
+          "count": 2,
+          "details": [
+            {
+              "name": "Comoé",
+              "capital": "Banfora",
+              "population_count": {
+                "y_2002": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Banfora",
+                "Bérégadougou",
+                "Mangodara",
+                "Moussodougou",
+                "Niangoloko",
+                "Ouo",
+                "Sidéradougou",
+                "Soubakaniédougou",
+                "Tiéfora"
+              ]
+            },
+            {
+              "name": "Léraba",
+              "capital": "Sindou",
+              "population_count": {
+                "y_2002": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Dakoro",
+                "Douna",
+                "Kankalaba",
+                "Loumana",
+                "Niankorodougou",
+                "Ouéléni",
+                "Sindou",
+                "Wolonkoto"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 17
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "urban_count": 3,
+          "rural_count": 14,
+          "villages": {
+            "count": 270
+          }
+        }
+      },
+      {
+        "name": "Centre",
+        "code_INSD": "11",
+        "population_count": {
+          "y_2003": 1169633,
+          "y_2006": 2231807,
+          "y_2012": 2231807,
+          "y_2019": 3032668
+        },
+        "area_km2": 2869.0,
+        "capital": "Ouagadougou",
+        "regional_councillors_count": 14,
+        "provinces": {
+          "count": 1,
+          "details": [
+            {
+              "name": "Kadiogo",
+              "capital": "Ouagadougou",
+              "population_count": {
+                "y_2003": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Komki-Ipala",
+                "Komsilga",
+                "Koubri",
+                "Ouagadougou",
+                "Pabré",
+                "Saaba",
+                "Tanghin-Dassouri"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 7
+        },
+        "communes": {
+          "urban_count": null,
+          "urban_special_status_count": 1,
+          "arrondissements": 12,
+          "sectors": 55,
+          "villages_special": null,
+          "other_urban_count": null,
+          "rural_count": 6,
+          "villages": {
+            "count": 172
+          }
+        }
+      },
+      {
+        "name": "Centre-Est",
+        "code_INSD": "10",
+        "population_count": {
+          "y_1996": 854000,
+          "y_2012": 1343079,
+          "y_2019": 1578075
+        },
+        "area_km2": 14709.6,
+        "capital": "Tenkodogo",
+        "regional_councillors_count": 59,
+        "provinces": {
+          "count": 3,
+          "details": [
+            {
+              "name": "Boulgou",
+              "capital": "Tenkodogo",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bagré",
+                "Bané",
+                "Béguédo",
+                "Bissiga",
+                "Bittou",
+                "Boussouma",
+                "Garango",
+                "Komtoèga",
+                "Niaogho",
+                "Tenkodogo",
+                "Zabré",
+                "Zoaga",
+                "Zonsé"
+              ]
+            },
+            {
+              "name": "Koulpélogo",
+              "capital": "Ouargaye",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Comin-Yanga",
+                "Dourtenga",
+                "Lalgaye",
+                "Ouargaye",
+                "Sangha",
+                "Soudougui",
+                "Yargatenga",
+                "Yondé"
+              ]
+            },
+            {
+              "name": "Kouritenga",
+              "capital": "Koupéla",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Andemtenga",
+                "Baskouré",
+                "Dialgaye",
+                "Gounghin",
+                "Kando",
+                "Koupéla",
+                "Pouytenga",
+                "Tensobentenga",
+                "Yargo"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 30
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 6,
+          "rural_count": 24,
+          "villages": {
+            "count": 676
+          }
+        }
+      },
+      {
+        "name": "Centre-Nord",
+        "code_INSD": "06",
+        "population_count": {
+          "y_2002": 1058305,
+          "y_2012": 1416895,
+          "y_2019": 1872126
+        },
+        "area_km2": 19508.0,
+        "capital": "Kaya",
+        "regional_councillors_count": 55,
+        "provinces": {
+          "count": 3,
+          "details": [
+            {
+              "name": "Bam",
+              "capital": "Kongoussi",
+              "population_count": {
+                "y_2002": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bourzanga",
+                "Guibaré",
+                "Kongoussi",
+                "Nasséré",
+                "Rollo",
+                "Rouko",
+                "Sabcé",
+                "Tikaré",
+                "Zimtenga"
+              ]
+            },
+            {
+              "name": "Namentenga",
+              "capital": "Boulsa",
+              "population_count": {
+                "y_2002": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Boala",
+                "Boulsa",
+                "Bouroum",
+                "Dargo",
+                "Nagbingou",
+                "Tougouri",
+                "Yalgo",
+                "Zéguédéguin"
+              ]
+            },
+            {
+              "name": "Sanmatenga",
+              "capital": "Kaya",
+              "population_count": {
+                "y_2002": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Barsalogho",
+                "Boussouma",
+                "Dablo",
+                "Kaya",
+                "Korsimoro",
+                "Mané",
+                "Namissiguima",
+                "Pensa",
+                "Pibaoré",
+                "Pissila",
+                "Ziga"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 28
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 3,
+          "rural_count": 25,
+          "villages": {
+            "count": 757
+          }
+        }
+      },
+      {
+        "name": "Centre-Ouest",
+        "code_INSD": "07",
+        "population_count": {
+          "y_1997": 941586,
+          "y_2003": 1162782,
+          "y_2006": 1186566,
+          "y_2012": 1387860,
+          "y_2019": 1659339
+        },
+        "area_km2": 21752.0,
+        "capital": "Koudougou",
+        "regional_councillors_count": 75,
+        "provinces": {
+          "count": 4,
+          "details": [
+            {
+              "name": "Boulkiemdé",
+              "capital": "Koudougou",
+              "population_count": {
+                "y_1997": null,
+                "y_2003": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bingo",
+                "Imasgo",
+                "Kindi",
+                "Kokologho",
+                "Koudougou",
+                "Nanoro",
+                "Nandiala",
+                "Pella",
+                "Poa",
+                "Ramongo",
+                "Sabou",
+                "Siglé",
+                "Soaw",
+                "Sourgou",
+                "Thyou"
+              ]
+            },
+            {
+              "name": "Sanguié",
+              "capital": "Réo",
+              "population_count": {
+                "y_1997": null,
+                "y_2003": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Dassa",
+                "Didyr",
+                "Godyr",
+                "Kordié",
+                "Kyon",
+                "Pouni",
+                "Réo",
+                "Ténado",
+                "Zamo",
+                "Zawara"
+              ]
+            },
+            {
+              "name": "Sissili",
+              "capital": "Léo",
+              "population_count": {
+                "y_1997": null,
+                "y_2003": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Biéha",
+                "Boura",
+                "Léo",
+                "Nébiélianayou",
+                "Niabouri",
+                "Silly",
+                "Tô"
+              ]
+            },
+            {
+              "name": "Ziro",
+              "capital": "Sapouy",
+              "population_count": {
+                "y_1997": null,
+                "y_2003": null,
+                "y_2006": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bakata",
+                "Bougnounou",
+                "Cassou",
+                "Dalo",
+                "Gao",
+                "Sapouy"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 39
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 4,
+          "rural_count": 35,
+          "villages": {
+            "count": null
+          }
+        }
+      },
+      {
+        "name": "Centre-Sud",
+        "code_INSD": "13",
+        "population_count": {
+          "y_1996": 531000,
+          "y_2012": 742378,
+          "y_2019": 788341
+        },
+        "area_km2": 11457.0,
+        "capital": "Manga",
+        "regional_councillors_count": 38,
+        "provinces": {
+          "count": 3,
+          "details": [
+            {
+              "name": "Bazèga",
+              "capital": "Kombissiri",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Doulougou",
+                "Gaongo",
+                "Ipelcé",
+                "Kayao",
+                "Kombissiri",
+                "Saponé",
+                "Toécé"
+              ]
+            },
+            {
+              "name": "Nahouri",
+              "capital": "Pô",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Guiaro",
+                "Pô",
+                "Tiébélé",
+                "Zecco",
+                "Ziou"
+              ]
+            },
+            {
+              "name": "Zoundwéogo",
+              "capital": "Manga",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Béré",
+                "Bindé",
+                "Gogo",
+                "Gomboussougou",
+                "Guiba",
+                "Manga",
+                "Nobéré"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 19
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 3,
+          "rural_count": 16,
+          "villages": {
+            "count": 528
+          }
+        }
+      },
+      {
+        "name": "Est",
+        "code_INSD": "04",
+        "population_count": {
+          "y_1996": 854000,
+          "y_2012": 1464366,
+          "y_2019": 1941505
+        },
+        "area_km2": 46694.0,
+        "capital": "Fada N’Gourma",
+        "regional_councillors_count": 54,
+        "provinces": {
+          "count": 5,
+          "details": [
+            {
+              "name": "Gnagna",
+              "capital": "Bogandé",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bilanga",
+                "Bogandé",
+                "Coalla",
+                "Liptougou",
+                "Manni",
+                "Piéla",
+                "Thion"
+              ]
+            },
+            {
+              "name": "Gourma",
+              "capital": "Fada N’Gourma",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Diabo",
+                "Diapangou",
+                "Fada N’Gourma",
+                "Matiacoali",
+                "Tibga",
+                "Yamba"
+              ]
+            },
+            {
+              "name": "Komandjoari",
+              "capital": "Gayéri",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bartiébougou",
+                "Foutouri",
+                "Gayéri"
+              ]
+            },
+            {
+              "name": "Kompienga",
+              "capital": "Pama",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Kompienga",
+                "Madjoari",
+                "Pama"
+              ]
+            },
+            {
+              "name": "Tapoa",
+              "capital": "Diapaga",
+              "population_count": {
+                "y_1996": null,
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Botou",
+                "Diapaga",
+                "Kantchari",
+                "Logobou",
+                "Namounou",
+                "Partiaga",
+                "Tambaga",
+                "Tansarga"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 27
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 5,
+          "rural_count": 22,
+          "villages": {
+            "count": 806
+          }
+        }
+      },
+      {
+        "name": "Hauts-Bassins",
+        "code_INSD": "01",
+        "population_count": {
+          "y_2012": 1776803,
+          "y_2019": 2238375
+        },
+        "area_km2": 25574.0,
+        "capital": "Bobo-Dioulasso",
+        "regional_councillors_count": 62,
+        "provinces": {
+          "count": 3,
+          "details": [
+            {
+              "name": "Houet",
+              "capital": "Bobo-Dioulasso",
+              "population_count": {
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Bama",
+                "Bobo-Dioulasso",
+                "Dandé",
+                "Faramana",
+                "Fô",
+                "Karangasso-Vigué",
+                "Karangasso-Sambla",
+                "Koundougou",
+                "Léna",
+                "Padéma",
+                "Péni",
+                "Satiri",
+                "Toussiana"
+              ]
+            },
+            {
+              "name": "Kénédougou",
+              "capital": "Orodara",
+              "population_count": {
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Banzon",
+                "Djigouéra",
+                "Kangala",
+                "Kayan",
+                "Koloko",
+                "Kourinion",
+                "Kourouma",
+                "Morolaba",
+                "N’Dorola",
+                "Orodara",
+                "Samogohiri",
+                "Samorogouan",
+                "Sindo"
+              ]
+            },
+            {
+              "name": "Tuy",
+              "capital": "Houndé",
+              "population_count": {
+                "y_2012": null,
+                "y_2019": null
+              },
+              "departments": [
+                "Békuy",
+                "Béréba",
+                "Boni",
+                "Founzan",
+                "Houndé",
+                "Koti",
+                "Koumbia"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 33
+        },
+        "communes": {
+          "urban_count": null,
+          "urban_special_status_count": 1,
+          "arrondissements": 7,
+          "sectors": 32,
+          "villages_special": 36,
+          "other_urban_count": 2,
+          "rural_count": 30,
+          "villages": {
+            "count": 472
+          }
+        }
+      },
+      {
+        "name": "Nord",
+        "code_INSD": "09",
+        "population_count": {
+          "y_2012": 1382111,
+          "y_2019": 1720908
+        },
+        "area_km2": 17885.0,
+        "capital": "Ouahigouya",
+        "regional_councillors_count": 59,
+        "provinces": {
+          "count": 4,
+          "details": [
+            {
+              "name": "Loroum",
+              "capital": "Titao",
+              "departments": [
+                "Banh",
+                "Ouindigui",
+                "Sollé",
+                "Titao"
+              ]
+            },
+            {
+              "name": "Passoré",
+              "capital": "Yako",
+              "departments": [
+                "Arbollé",
+                "Bagaré",
+                "Bokin",
+                "Gomponsom",
+                "Kirsi",
+                "Lâ-Todin",
+                "Pilimpikou",
+                "Samba",
+                "Yako"
+              ]
+            },
+            {
+              "name": "Yatenga",
+              "capital": "Ouahigouya",
+              "departments": [
+                "Barga",
+                "Kaïn",
+                "Kalsaka",
+                "Kossouka",
+                "Koumbri",
+                "Namissiguima",
+                "Ouahigouya",
+                "Oula",
+                "Rambo",
+                "Séguénéga",
+                "Tangaye",
+                "Thiou",
+                "Zogoré"
+              ]
+            },
+            {
+              "name": "Zondoma",
+              "capital": "Gourcy",
+              "departments": [
+                "Bassi",
+                "Boussou",
+                "Gourcy",
+                "Léba",
+                "Tougo"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 31
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 4,
+          "rural_count": 27,
+          "villages": {
+            "count": 816
+          }
+        }
+      },
+      {
+        "name": "Plateau-Central",
+        "code_INSD": "08",
+        "population_count": {
+          "y_2012": 807444,
+          "y_2019": 977510
+        },
+        "area_km2": 8605.0,
+        "capital": "Ziniaré",
+        "regional_councillors_count": 40,
+        "provinces": {
+          "count": 3,
+          "details": [
+            {
+              "name": "Ganzourgou",
+              "capital": "Zorgho",
+              "departments": [
+                "Boudry",
+                "Kogho",
+                "Méguet",
+                "Mogtédo",
+                "Salogo",
+                "Zam",
+                "Zorgho",
+                "Zoungou"
+              ]
+            },
+            {
+              "name": "Kourwéogo",
+              "capital": "Boussé",
+              "departments": [
+                "Boussé",
+                "Laye",
+                "Niou",
+                "Sourgoubila",
+                "Toéghin"
+              ]
+            },
+            {
+              "name": "Oubritenga",
+              "capital": "Ziniaré",
+              "departments": [
+                "Absouya",
+                "Dapélogo",
+                "Loumbila",
+                "Nagréongo",
+                "Ourgou-Manéga",
+                "Ziniaré",
+                "Zitenga"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 23
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 3,
+          "rural_count": 20,
+          "villages": {
+            "count": 530
+          }
+        }
+      },
+      {
+        "name": "Sahel",
+        "code_INSD": "03",
+        "population_count": {
+          "y_2012": 1158147,
+          "y_2019": 1094907
+        },
+        "area_km2": 36166.0,
+        "capital": "Dori",
+        "regional_councillors_count": 51,
+        "provinces": {
+          "count": 4,
+          "details": [
+            {
+              "name": "Oudalan",
+              "capital": "Gorom-Gorom",
+              "departments": [
+                "Déou",
+                "Gorom-Gorom",
+                "Markoye",
+                "Oursi",
+                "Tin-Akoff"
+              ]
+            },
+            {
+              "name": "Séno",
+              "capital": "Dori",
+              "departments": [
+                "Bani",
+                "Dori",
+                "Falagountou",
+                "Gorgadji",
+                "Sampelga",
+                "Seytenga"
+              ]
+            },
+            {
+              "name": "Soum",
+              "capital": "Djibo",
+              "departments": [
+                "Arbinda",
+                "Baraboulé",
+                "Diguel",
+                "Djibo",
+                "Kelbo",
+                "Koutougou",
+                "Nassoumbou",
+                "Pobé-Mengao",
+                "Tongomayel"
+              ]
+            },
+            {
+              "name": "Yagha",
+              "capital": "Sebba",
+              "departments": [
+                "Boundoré",
+                "Mansila",
+                "Sebba",
+                "Solhan",
+                "Tankougounadié",
+                "Titabé"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 26
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 4,
+          "rural_count": 22,
+          "villages": {
+            "count": null
+          }
+        }
+      },
+      {
+        "name": "Sud-Ouest",
+        "code_INSD": "05",
+        "population_count": {
+          "y_2012": 729362,
+          "y_2019": 874030
+        },
+        "area_km2": 16533.0,
+        "capital": "Gaoua",
+        "regional_councillors_count": 56,
+        "provinces": {
+          "count": 4,
+          "details": [
+            {
+              "name": "Bougouriba",
+              "capital": "Diébougou",
+              "departments": [
+                "Bondigui",
+                "Diébougou",
+                "Dolo",
+                "Iolonioro",
+                "Tiankoura"
+              ]
+            },
+            {
+              "name": "Ioba",
+              "capital": "Dano",
+              "departments": [
+                "Dano",
+                "Dissin",
+                "Guéguéré",
+                "Koper",
+                "Niégo",
+                "Oronkua",
+                "Ouessa",
+                "Zambo"
+              ]
+            },
+            {
+              "name": "Noumbiel",
+              "capital": "Batié",
+              "departments": [
+                "Batié",
+                "Boussoukoula",
+                "Kpuéré",
+                "Legmoin",
+                "Midebdo"
+              ]
+            },
+            {
+              "name": "Poni",
+              "capital": "Gaoua",
+              "departments": [
+                "Bouroum-Bouroum",
+                "Bousséra",
+                "Djigoué",
+                "Gaoua",
+                "Gbomblora",
+                "Kampti",
+                "Loropéni",
+                "Malba",
+                "Nako",
+                "Périgban"
+              ]
+            }
+          ]
+        },
+        "departments": {
+          "count": 28
+        },
+        "communes": {
+          "urban_special_status_count": null,
+          "arrondissements": null,
+          "sectors": null,
+          "villages_special": null,
+          "other_urban_count": null,
+          "urban_count": 4,
+          "rural_count": 24,
+          "villages": {
+            "count": null
+          }
+        }
+      }
+    ]
+  }
 }
