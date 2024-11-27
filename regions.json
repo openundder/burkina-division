@@ -1,6 +1,6 @@
 {
-  "burkina_faso": {
-    "regions": [
+  "count": 13,
+  "details": [
       {
         "name": "Boucle du Mouhoun",
         "code_INSD": "02",
@@ -143,56 +143,7 @@
           ]
         },
         "departments": {
-          "count": 47,
-          "list": [
-            "Bagassi",
-            "Bana",
-            "Boromo",
-            "Fara",
-            "Oury",
-            "Pâ",
-            "Pompoï",
-            "Poura",
-            "Siby",
-            "Yaho",
-            "Balavé",
-            "Kouka",
-            "Sami",
-            "Sanaba",
-            "Solenzo",
-            "Tansila",
-            "Barani",
-            "Bomborokuy",
-            "Bourasso",
-            "Djibasso",
-            "Dokuy",
-            "Doumbala",
-            "Kombori",
-            "Madouba",
-            "Nouna",
-            "Sono",
-            "Bondokuy",
-            "Dédougou",
-            "Douroula",
-            "Kona",
-            "Ouarkoye",
-            "Safané",
-            "Tchériba",
-            "Gassan",
-            "Gossina",
-            "Kougny",
-            "Toma",
-            "Yaba",
-            "Yé",
-            "Di",
-            "Gomboro",
-            "Kassoum",
-            "Kiembara",
-            "Lanfièra",
-            "Lankoué",
-            "Toéni",
-            "Tougan"
-          ]
+          "count": 47
         },
         "communes": {
           "urban_special_status_count": null,
@@ -1253,5 +1204,4 @@
         }
       }
     ]
-  }
 }
