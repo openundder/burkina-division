@@ -9,7 +9,7 @@ Ce dépôt contient des informations structurées sur les 13 régions du Burkina
 
 ### Fichiers
 
-- **`regions_burkina_faso.json`** : Le fichier principal contenant les informations sur les 13 régions.
+- **`regions.json`** : Le fichier principal contenant les informations sur les 13 régions.
 
 ---
 
